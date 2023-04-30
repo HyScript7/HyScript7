@@ -5,8 +5,8 @@
 **I'm Script**, I'm an IT student aiming to become a BE developer and linux system administrator.
 
 - 🔭 I’m currently working on [ScriptUtils](https://github.com/HyScript7/ScriptUtils)
-- 🌱 I’m currently learning Rust and Java
 - ⚡ I'm studying IT
+- 🌱 I’m currently learning Rust and Java
 
 <p align="center">
   <a href="https://skillicons.dev">
