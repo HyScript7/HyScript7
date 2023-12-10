@@ -2,15 +2,15 @@
 
 ---
 
-**I'm Script**, I'm an IT student aiming to become a BE developer and linux system administrator.
+**I'm Script**, an IT student aiming to become a BE developer and linux system administrator.
 
 - 🔭 I’m currently working on [ScriptUtils](https://github.com/HyScript7/ScriptUtils)
 - ⚡ I'm studying IT
-- 🌱 I’m currently learning Rust and Java
+- 🌱 I’m currently learning Java and Kubernetes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,git,docker,html,css,python,flask,java,gradle,mongo,redis,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,github,gitlab,vscode,neovim,idea,git,docker,discord,postgres,mongo,redis,java,gradle,spring,python,flask,php,html,css&perline=12" />
   </a>
 </p>
 
