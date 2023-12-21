@@ -21,4 +21,4 @@
 </p>
 
 ![HyScript7's Github Stats](https://github-readme-stats.vercel.app/api?username=HyScript7&count_private=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyScript7&theme=dracula&layout=compact&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyScript7&theme=dracula&show_icons=true)
