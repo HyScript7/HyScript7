@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on [ScriptUtils](https://github.com/HyScript7/ScriptUtils)
 - ⚡ I'm studying IT
 - 🌱 I’m currently learning Java and Kubernetes
+
+Unable to find a project? try checking out my [gitlab](<https://gitlab.com/HyScript7>)!
+
 <p align="center">
 	<img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
