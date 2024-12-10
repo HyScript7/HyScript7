@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Script and I'm an IT Student, from Czechia</h2>
 
-- 🔭 I’m currently working on [ScriptUtils](https://github.com/HyScript7/ScriptUtils)
+- 🔭 I’m currently working on a new personal portfolio <!-- [ScriptUtils](https://github.com/HyScript7/ScriptUtils) -->
 - 🌱 I’m currently learning Design Patterns and Kubernetes
 - 📫 You can reach me on discord: @hyscript7
 - ⚡ I've been creating bugs since 2019
