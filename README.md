@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Script and I'm an IT Student, from Czechia</h2>
 
-- 🔭 I’m currently working on a game in python <!-- [ScriptUtils](https://github.com/HyScript7/ScriptUtils) -->
-- 🌱 I’m currently learning Design Patterns and Kubernetes
+- 🔭 I’m currently working on a discord bot in Java <!-- [ScriptUtils](https://github.com/HyScript7/ScriptUtils) -->
+- 🌱 I’m currently learning GoLang
 - 📫 You can reach me on discord: @hyscript7
 - ⚡ I've been creating bugs since 2019
 
