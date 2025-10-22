@@ -37,13 +37,13 @@ Unable to find a project? try checking out my [gitlab](<https://gitlab.com/HyScr
 
 <div align="left">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,c,go&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,go&perline=12" />
   <h3>Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,angular,solidjs,tailwindcss&perline=12" />
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,mysql,sqlite&perline=12" />
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=linux,github,gitlab,vscode,neovim,idea,git,docker,kubernetes,nginx,postman,discord,gradle,latex&perline=12" />
+  <img src="https://skillicons.dev/icons?i=linux,github,gitlab,vscode,neovim,idea,git,docker,kubernetes,nginx,postman,discord,gradle,latex,godot&perline=12" />
 </div>
 
 ###
