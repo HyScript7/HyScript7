@@ -1,33 +1,10 @@
 <h2 align="left">Hi 👋! My name is Script and I'm an IT Student, from Czechia</h2>
 
-- 🔭 I’m currently working on a discord bot in Java <!-- [ScriptUtils](https://github.com/HyScript7/ScriptUtils) -->
-- 🌱 I’m currently learning GoLang
+- 🔭 I’m currently working on a discord bot in Java: [ScriptUtils](https://github.com/HyScript7/ScriptUtils)
+- 🌱 I’m currently learning microservice architecture
 - 📫 You can reach me on discord: @hyscript7
-- ⚡ I've been creating bugs since 2019
 
-Unable to find a project? try checking out my [gitlab](<https://gitlab.com/HyScript7>)!
-
-###
-
-<div align="left">
-  <span>
-  <a href="https://www.youtube.com/@hyscript7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  </span>
-  <span>
-  <a href="https://www.twitch.tv/scriptian77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  </span>
-</div>
-
-###
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=HyScript7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyScript7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Unable to find a project? Try checking out my [gitlab](<https://gitlab.com/HyScript7>)!
 
 ###
 
@@ -39,7 +16,7 @@ Unable to find a project? try checking out my [gitlab](<https://gitlab.com/HyScr
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,go&perline=12" />
   <h3>Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,angular,solidjs,tailwindcss&perline=12" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,svelte,tailwindcss&perline=12" />
   <h3>Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,mysql,sqlite&perline=12" />
   <h3>Tools</h3>
